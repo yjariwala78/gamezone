@@ -1,0 +1,39 @@
+        body{
+            background-color: skyblue
+        }
+        button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.mydiv {
+  background-color: skyblue;
+  text-align: center;
+}
+.h2{
+    text-align: center;
+    background-image: url(tictactoe-seamless-background-dark-blue-vector-illustration_126267-8257.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h3{
+    background-color: lightsteelblue;
+    text-align: center;
+    background-image: url(bingo-in-aesthetic-blue-6s2xecncso5bbvad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h4{
+  background-color: rgb(241, 241, 29);
+  text-align: center;
+  background-image: url(HD-wallpaper-ludo-king-games-super.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
