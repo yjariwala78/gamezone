@@ -14,7 +14,7 @@
   cursor: pointer;
 }
 .mydiv {
-  background-color: royalblue;
+  background-color: white;
   text-align: center;
 }
 .h2{
@@ -34,6 +34,18 @@
   background-color: rgb(241, 241, 29);
   text-align: center;
   background-image: url(HD-wallpaper-ludo-king-games-super.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.h5{
+  text-align: center;
+  background-image: url(5d80de6e195f2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.h6{
+  text-align: center;
+  background-image: url(wp5522841.webp);
   background-repeat: no-repeat;
   background-size: cover;
 }
