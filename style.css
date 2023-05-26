@@ -21,6 +21,7 @@
     text-align: center;
     background-image: url(tic-tac-toe-seamless-background-on-dark-blue-illustration-vector.jpg);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
 }
 .h3{
@@ -28,6 +29,7 @@
     text-align: center;
     background-image: url(bingo-in-aesthetic-blue-6s2xecncso5bbvad.jpg);
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
 }
 .h4{
@@ -35,17 +37,31 @@
   text-align: center;
   background-image: url(HD-wallpaper-ludo-king-games-super.jpg);
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
 }
 .h5{
   text-align: center;
   background-image: url(5d80de6e195f2.png);
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
 }
 .h6{
   text-align: center;
   background-image: url(wp5522841.webp);
   background-repeat: no-repeat;
+  background-attachment: fixed;
   background-size: cover;
+}
+.h7{
+  text-align: center;
+  background-image: url(unnamed\ \(1\).png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.hu:hover {
+  background: #ddd;
+  color: black;
 }
